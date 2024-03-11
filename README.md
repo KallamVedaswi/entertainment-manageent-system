@@ -1,1 +1,1 @@
-# entertainment-manageent-system
+# entertainment-management-system
